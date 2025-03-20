@@ -47,3 +47,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/output/snake.svg" alt="Snake animation" />
+
+###
