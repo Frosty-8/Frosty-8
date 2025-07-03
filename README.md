@@ -2,21 +2,23 @@
 
 ###
 
-<p align="left">My name is Sarthak (Frosty) and I'm a Web Developer & Data Analyst, from India</p>
+<p align="left">My name is Sarthak (Frosty) and I'm a Web Developer & Data Analyst from India</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">📚 I'm currently learning Generative AI</p>
 
-<p align="left">📚 I'm currently learning NLP</p>
+<p align="center">
+  <a href="https://my-new-prof.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 ###
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,8 +41,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Frosty-8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
