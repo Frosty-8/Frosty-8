@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>PDFChatApp - Project</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>PDFChatApp</h1>
+    <p>A Flask-based web app to interactively chat with PDF documents using LangChain and OpenRouter API.</p>
+    <ul>
+      <li>Multi-PDF uploads with persistent session storage (MongoDB).</li>
+      <li>Context-aware vector embeddings & similarity search.</li>
+      <li>Feedback loop for improving chatbot responses.</li>
+    </ul>
+    <p><a href="https://github.com/Frosty-8/pdf-chatbot" target="_blank">GitHub Repository🔗</a></p>
+
+    <h1>Wildfire Image Classification</h1>
+    <p>Built using TensorFlow/Keras to identify wildfire presence in images.</p>
+    <ul>
+      <li>Achieved 96% accuracy on test data.</li>
+      <li>Used Conv2D, MaxPooling, Dropout layers.</li>
+      <li>Data loading and augmentation via TensorFlow APIs.</li>
+    </ul>
+    <p><a href="https://github.com/Frosty-8/wildlife-analysis" target="_blank">GitHub Repository🔗</a></p>
+    
+    <h1>MNIST Gradio Project</h1>
+    <p>A user-friendly web application built using Gradio that demonstrates handwritten digit recognition using the classic MNIST dataset and a trained neural network model (e.g., TensorFlow or PyTorch). The interface lets users draw digits and instantly predicts the digit with a confidence score.</p>
+    <ul>
+      <li>Styled with Gradio, enabling real-time drawing and inference in the browser.</li>
+      <li>A lightweight CNN or fully connected neural network trained on MNIST, achieving ~98% accuracy.</li>
+      <li>Displays predicted label with probability and optional visual elements (e.g., class bar chart).</li>
+      <li>Fully client–server hosted locally or via shared Gradio link, ideal for demos, teaching, or portfolios.</li>
+    </ul>
+    <p><a href="https://github.com/Frosty-8/Mnist-gradio-project" target="_blank">GitHub Repository🔗</a></p>
+
+    <h1>Student Management System (Gradio + SQLite)</h1>
+    <p>A simple, interactive Student Management System built with Python, SQLite, and Gradio. 
+    Perfect for learning and practicing SQL concepts such as CRUD operations, JOINs, aggregate functions, 
+    and more — all from a modern, visual UI.</p>
+    <ul>
+      <li>🧑 Add, list, search, and delete students</li>
+      <li>📘 Add courses and assign students.</li>
+      <li>📚 View enrolled courses per student</li>
+      <li>✏️ Update student GPA</li>
+      <li>📊 View reports (Average GPA, student count, etc.)</li>
+      <li>🖥️ Interactive Gradio interface (no frontend coding needed!)</li>
+    </ul>
+    <p><a href="https://github.com/Frosty-8/Mnist-gradio-project" target="_blank">GitHub Repository🔗</a></p>
+    
+    <a href="../index.html">← Back to Home</a>
+  </div>
+    <script>
+    const toggle = document.getElementById("modeToggle");
+    const sliderIcon = document.querySelector(".slider .icon");
+    const body = document.body;
+
+    const savedTheme = localStorage.getItem("theme") || "light";
+    body.classList.add(savedTheme);
+    toggle.checked = savedTheme === "dark";
+    sliderIcon.textContent = savedTheme === "dark" ? "🌙" : "☀️";
+
+    toggle.addEventListener("change", () => {
+      if (toggle.checked) {
+        body.classList.replace("light", "dark");
+        sliderIcon.textContent = "🌙";
+        localStorage.setItem("theme", "dark");
+      } else {
+        body.classList.replace("dark", "light");
+        sliderIcon.textContent = "☀️";
+        localStorage.setItem("theme", "light");
+      }
+    });
+  </script>
+</body>
+</html>
