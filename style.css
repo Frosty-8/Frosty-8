@@ -110,3 +110,20 @@ footer {
 input:checked + .slider .icon {
   transform: translateX(24px);
 }
+.profile-image {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.profile-image img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 4px solid #0077cc;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.profile-image img:hover {
+  transform: scale(1.05);
+}
