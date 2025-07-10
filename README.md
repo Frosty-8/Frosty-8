@@ -40,13 +40,32 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Frosty-8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Frosty-8&theme=radical&hide_border=true&border_radius=5" height="200" alt="GitHub streak stats" />
 </div>
 
 ###
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frosty-8&show_icons=true&theme=radical&count_private=true&hide_border=true" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frosty-8&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages" />
+</div>
+
+###
+
+<h3 align="center">📊 Contribution Graph</h3>
+
+<div align="center">
+  <img src="https://frosty-readme-stats.vercel.app/api?username=Frosty-8&show_icons=true&theme=radical&hide_border=true" alt="GitHub contribution graph" />
+</div>
+
+###
+
+<h3 align="center">🐍 GitHub Snake Animation</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frosty-8/Frosty-8/output/github-snake-dark.svg" />
