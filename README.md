@@ -60,7 +60,7 @@
 <h3 align="center">📊 Contribution Graph</h3>
 
 <div align="center">
-  <img src="https://frosty-readme-stats.vercel.app/api?username=Frosty-8&show_icons=true&theme=radical&hide_border=true" alt="GitHub contribution graph" />
+  <img src="https://frosty-8.vercel.app/graph?username=Frosty-8&theme=dracula" alt="GitHub contribution graph" />
 </div>
 
 ###
