@@ -55,13 +55,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frosty-8&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages" />
 </div>
 
-###
+### 🧾 GitHub Profile Summary Cards (Dracula Theme)
 
-<h3 align="center">📊 Contribution Graph</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Frosty-8/Frosty-8/main/profile-summary-card-output/dracula/4-productive-time.svg" />
+</p>
 
-<div align="center">
-  <img src="https://frosty-8.vercel.app/graph?username=Frosty-8&theme=dracula" alt="GitHub contribution graph" />
-</div>
 
 ###
 
