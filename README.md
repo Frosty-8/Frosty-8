@@ -39,6 +39,9 @@
 </div>
 
 ###
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Frosty-8)
+
+###
 
 <h3 align="center">🔥 My GitHub Streak</h3>
 
