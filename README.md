@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think I am lazy , but good enough to work on any project.**
 <p align="center">
-  <a href="https://my-new-prof.vercel.app/" target="_blank">
+  <a href="https://portfolio-website-kappa-one-98.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
